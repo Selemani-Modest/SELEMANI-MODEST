@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Selemani Modest 👋
 
-<!--
-**Selemani-Modest/SELEMANI-MODEST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer & Electronic Engineering student at DIT, Tanzania, focused on
+SOC analysis, network security and web security.
 
-Here are some ideas to get you started:
+## What I'm working on now
+- CCNA (Jeremy's IT Lab + Cisco Packet Tracer)
+- SOC Analyst Tier 1 labs on CyberDefenders
+- PortSwigger Web Security Academy (SQLi, Access Control, SSRF and more)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- soc-lab-writeups: incident-style write-ups of SOC labs
+- web-security-notes: bug bounty style reports for web vulnerabilities
+- networking-labs: CCNA labs and Packet Tracer topologies
+
+## Tools I use
+Burp Suite · Wireshark · Packet Tracer ·GNS3 · Linux · Java/Spring Boot · React
+
+## Goal
+Landing a SOC / security internship and growing into a bug bounty hunter.
