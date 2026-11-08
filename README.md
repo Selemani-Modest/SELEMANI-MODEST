@@ -14,7 +14,7 @@ SOC analysis, network security and web security.
 - networking-labs: CCNA labs and Packet Tracer topologies
 
 ## Tools I use
-Burp Suite · Wireshark · Packet Tracer ·GNS3 · Linux · Java/Spring Boot · React
+Burp Suite · Wireshark · Packet Tracer · GNS3 · Linux · Java/Spring Boot · React.
 
 ## Goal
 Landing a SOC / security internship and growing into a bug bounty hunter.
