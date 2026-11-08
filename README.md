@@ -1,6 +1,6 @@
 # Hi, I'm Selemani Modest 👋
 
-Computer & Electronic Engineering student at DIT, Tanzania, focused on SOC analysis, network security and web security.
+Computer Engineering student at DIT, Tanzania, focused on SOC analysis, network security and web security.
 
 ## What I'm working on now
 
