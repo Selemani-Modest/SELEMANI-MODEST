@@ -24,4 +24,4 @@ Landing a SOC / security internship and growing into a bug bounty hunter.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/selemani-modest-ab023b3bb)
+[LinkedIn](https://www.linkedin.com/in/selemani-modest)
